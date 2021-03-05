@@ -40,7 +40,7 @@ My mom cooked pancakes for breakfast
 
 Output:
 
-24 49
+24 49\n
 11 25
 
 
@@ -55,8 +55,8 @@ A clause is a set of words containing a subject and a predicate
 
 Output:
 
-19 38
-10 25
+19 38\n
+10 25\n
 22 41
 
 Testcase 3:
@@ -83,9 +83,9 @@ A complex sentence contains at least one independent and at least one dependent 
 
 Output:
 
-20 39
-24 47
-19 38
+20 39\n
+24 47\n
+19 38\n
 30 56
 
 Testcase 5:
@@ -104,11 +104,11 @@ The chief ingredients of a good essay include not only the content and your argu
 
 Output:
 
-23 51
-18 36
-20 43
-25 57
-21 39
-21 36
-23 41
+23 51\n
+18 36\n
+20 43\n
+25 57\n
+21 39\n
+21 36\n
+23 41\n
 27 58
