@@ -15,9 +15,9 @@ Using Iteration, traverse each string and find the number of vowels and consonan
 
 Sample Input:
 
-3
-How many vowels in this String
-Sarah and Jessie are going Shopping
+3\n
+How many vowels in this String\n
+Sarah and Jessie are going Shopping\n
 The frog jumped and landed in the pond
 
 Sample Output:
@@ -34,8 +34,8 @@ Testcase 1:
 
 Input:
 
-2
-When you are trying to understand a sentence break it into smaller pieces
+2\n
+When you are trying to understand a sentence break it into smaller pieces\n
 My mom cooked pancakes for breakfast
 
 Output:
@@ -48,9 +48,9 @@ Testcase 2:
 
 Input:
 
-3
-A sentence is a group of words put together in a complete
-The big dog went to the county fair
+3\n
+A sentence is a group of words put together in a complete\n
+The big dog went to the county fair\n
 A clause is a set of words containing a subject and a predicate
 
 Output:
@@ -74,10 +74,10 @@ Testcase 4:
 
 Input:
 
-4
-We can break up into sentences by separating the main ideas
-She completed her literature review, and she created her reference list
-The punctuations can be as important as the words you use
+4\n
+We can break up into sentences by separating the main ideas\n
+She completed her literature review, and she created her reference list\n
+The punctuations can be as important as the words you use\n
 A complex sentence contains at least one independent and at least one dependent clause
 
 
@@ -92,14 +92,14 @@ Testcase 5:
 
 Input:
 
-8
-Readers expect what they already know to be at the beginning of a sentence
-Effective writers use a variety of types of sentences 
-If thought corrupts language, language can also corrupt thought
-Make your sentences more interesting by having some sentences which are very short
-Effective sentences are careful to use the right conjunction
-The goal of an argumentative essay is to convince readers
-Compare and contrast essays examine similarities and differences
+8\n
+Readers expect what they already know to be at the beginning of a sentence\n
+Effective writers use a variety of types of sentences\n
+If thought corrupts language, language can also corrupt thought\n
+Make your sentences more interesting by having some sentences which are very short\n
+Effective sentences are careful to use the right conjunction\n
+The goal of an argumentative essay is to convince readers\n
+Compare and contrast essays examine similarities and differences\n
 The chief ingredients of a good essay include not only the content and your arguments
 
 Output:
