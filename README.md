@@ -22,8 +22,8 @@ The frog jumped and landed in the pond
 
 Sample Output:
 
-7 23
-12 23
+7 23\n
+12 23\n
 10 28
 
 Explanation:
