@@ -63,7 +63,7 @@ Testcase 3:
 
 Input:
 
-1
+1\n
 The fox really liked pancakes and he ate them every day for breakfast 
 
 Output:
