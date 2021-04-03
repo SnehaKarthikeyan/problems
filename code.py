@@ -10,6 +10,5 @@ for i in range(0,n):
         vowels = vowels + 1
     else:
         consonants = consonants + 1
- 
  print(vowels,end=" ")
  print(consonants)
