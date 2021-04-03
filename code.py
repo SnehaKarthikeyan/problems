@@ -1,10 +1,8 @@
 Coding:
-
+ 
 n=int(input())
-str1 = input()
-vowels = 0
-consonants = 0
 for i in range(0,n):
+ str1 = input()
  vowels = 0
  consonants = 0
  for i in str1:
