@@ -24,7 +24,7 @@ Sample Output:
 
 7 23\n
 12 23\n
-10 28
+10 27
 
 Explanation:
 
