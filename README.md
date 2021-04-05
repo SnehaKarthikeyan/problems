@@ -1,17 +1,19 @@
 # problemsgma
 Anu was given an assignment by her teacher. The teacher gave her a set of sentences and asked her to find the number of vowels and consonants in each sentence. Anu was confused about finding the number of vowels and consonants. Develop a coding to help her to sort out the assignment given to her by the teacher.
+Note:
+Ignore spaces in the sentence.
 
 Input Description:
 
-The first line consists of the number of sentences. The following n lines consist of the sentences
+The first line consists of the number of sentences. The following n lines consist of the sentences.
 
 Output Description: 
 
-Display the number of vowels and consonants appearing in each sentence in each line separated by a space
+Display the number of vowels and consonants appearing in each sentence in each line separated by a space.
 
 Hints:
 
-Using Iteration, traverse each string and find the number of vowels and consonants
+Using Iteration, traverse each string and find the number of vowels and consonants. Note: Ignore spaces in the sentence.
 
 Sample Input:
 
@@ -22,9 +24,9 @@ The frog jumped and landed in the pond
 
 Sample Output:
 
-7 23\n
-12 23\n
-10 28
+7 18\n
+12 18\n
+10 21
 
 Explanation:
 
@@ -40,8 +42,8 @@ My mom cooked pancakes for breakfast
 
 Output:
 
-24 49\n
-11 25
+24 37\n
+11 20
 
 
 Testcase 2:
@@ -55,9 +57,9 @@ A clause is a set of words containing a subject and a predicate
 
 Output:
 
-19 38\n
-10 25\n
-22 41
+19 27\n
+10 18\n
+22 29
 
 Testcase 3:
 
@@ -68,7 +70,7 @@ The fox really liked pancakes and he ate them every day for breakfast
 
 Output:
 
-21 48
+21 36
 
 Testcase 4:
 
@@ -83,10 +85,10 @@ A complex sentence contains at least one independent and at least one dependent 
 
 Output:
 
-20 39\n
-24 47\n
-19 37\n
-30 56
+20 29\n
+24 37\n
+19 27\n
+30 43
 
 Testcase 5:
 
@@ -104,11 +106,11 @@ The chief ingredients of a good essay include not only the content and your argu
 
 Output:
 
-23 51\n
-18 36\n
-20 43\n
-25 57\n
-21 39\n
-21 36\n
-23 41\n
-27 58
+23 38\n
+18 27\n
+20 35\n
+25 4\n
+21 31\n
+21 27\n
+23 34\n
+27 44
