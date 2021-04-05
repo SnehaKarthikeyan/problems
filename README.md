@@ -77,7 +77,7 @@ Input:
 4\n
 We can break up into sentences by separating the main ideas\n
 She completed her literature review, and she created her reference list\n
-The punctuations can be as important as the words you use\n
+The punctuation can be as important as the words you use\n
 A complex sentence contains at least one independent and at least one dependent clause
 
 
@@ -85,7 +85,7 @@ Output:
 
 20 39\n
 24 47\n
-19 38\n
+19 37\n
 30 56
 
 Testcase 5:
