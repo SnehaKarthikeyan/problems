@@ -68,7 +68,7 @@ The fox really liked pancakes and he ate them every day for breakfast
 
 Output:
 
-21 49
+21 48
 
 Testcase 4:
 
